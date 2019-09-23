@@ -1,0 +1,31 @@
+.satu{
+  text-align: right;
+  color: blue;
+}
+
+.dua{
+  text-align: left;
+  color: green;
+}
+
+.tiga{
+  text-align: right;
+color: red;
+}
+
+div{
+    font-weight: bold;
+    margin-right: 700px;
+    overflow:scroll;
+    border: solid black;
+    border-width: 1px;
+    height: 320px;
+    background-color: white;
+    background-image: url("avocado.jpg");
+    background-repeat: repeat-y;
+}
+
+body {
+  background-image: url("windmill.jpg");
+  background-size: cover;
+}
